@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+B:/OpenMP_lab/main_without_mp.c
+omp.h
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

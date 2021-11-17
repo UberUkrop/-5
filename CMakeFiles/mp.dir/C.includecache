@@ -1,0 +1,230 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+B:/OpenMP_lab/main.c
+openssl/conf.h
+-
+openssl/applink.c
+-
+openssl/evp.h
+-
+openssl/err.h
+-
+string.h
+-
+stdio.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/applink.c
+stdio.h
+-
+io.h
+-
+fcntl.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/asn1.h
+time.h
+-
+openssl/e_os2.h
+-
+openssl/opensslconf.h
+-
+openssl/bio.h
+-
+openssl/safestack.h
+-
+openssl/asn1err.h
+-
+openssl/symhacks.h
+-
+openssl/ossl_typ.h
+-
+openssl/bn.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/asn1err.h
+openssl/symhacks.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/bio.h
+openssl/e_os2.h
+-
+stdio.h
+-
+stdarg.h
+-
+openssl/crypto.h
+-
+openssl/bioerr.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/bioerr.h
+openssl/symhacks.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/bn.h
+openssl/e_os2.h
+-
+stdio.h
+-
+openssl/opensslconf.h
+-
+openssl/ossl_typ.h
+-
+openssl/crypto.h
+-
+openssl/bnerr.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/bnerr.h
+openssl/symhacks.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/conf.h
+openssl/bio.h
+-
+openssl/lhash.h
+-
+openssl/safestack.h
+-
+openssl/e_os2.h
+-
+openssl/ossl_typ.h
+-
+openssl/conferr.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/conferr.h
+openssl/symhacks.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/crypto.h
+stdlib.h
+-
+time.h
+-
+openssl/e_os2.h
+-
+stdio.h
+-
+openssl/safestack.h
+-
+openssl/opensslv.h
+-
+openssl/ossl_typ.h
+-
+openssl/opensslconf.h
+-
+openssl/cryptoerr.h
+-
+openssl/ebcdic.h
+-
+openssl/symhacks.h
+-
+openssl/opensslv.h
+-
+pthread.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/cryptoerr.h
+openssl/symhacks.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/e_os2.h
+openssl/opensslconf.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/ebcdic.h
+stdlib.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/err.h
+openssl/e_os2.h
+-
+stdio.h
+-
+stdlib.h
+-
+openssl/ossl_typ.h
+-
+openssl/bio.h
+-
+openssl/lhash.h
+-
+errno.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/evp.h
+openssl/opensslconf.h
+-
+openssl/ossl_typ.h
+-
+openssl/symhacks.h
+-
+openssl/bio.h
+-
+openssl/evperr.h
+-
+openssl/objects.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/evperr.h
+openssl/symhacks.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/lhash.h
+openssl/e_os2.h
+-
+openssl/bio.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/obj_mac.h
+
+C:/Program Files/OpenSSL-Win64/include/openssl/objects.h
+openssl/obj_mac.h
+-
+openssl/bio.h
+-
+openssl/asn1.h
+-
+openssl/objectserr.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/objectserr.h
+openssl/symhacks.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/opensslconf.h
+openssl/opensslv.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/opensslv.h
+
+C:/Program Files/OpenSSL-Win64/include/openssl/ossl_typ.h
+limits.h
+-
+openssl/e_os2.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/safestack.h
+openssl/stack.h
+-
+openssl/e_os2.h
+-
+
+C:/Program Files/OpenSSL-Win64/include/openssl/stack.h
+
+C:/Program Files/OpenSSL-Win64/include/openssl/symhacks.h
+openssl/e_os2.h
+-
+
