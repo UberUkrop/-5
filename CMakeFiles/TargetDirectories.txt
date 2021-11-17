@@ -1,4 +1,0 @@
-B:/OpenMP_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
-B:/OpenMP_lab/cmake-build-debug/CMakeFiles/mp.dir
-B:/OpenMP_lab/cmake-build-debug/CMakeFiles/without_mp.dir
-B:/OpenMP_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
